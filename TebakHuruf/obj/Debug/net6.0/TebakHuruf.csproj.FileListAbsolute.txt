@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\TebakHuruf\bin\Debug\net6.0\TebakHuruf.exe
+C:\Users\USER\Desktop\TebakHuruf\bin\Debug\net6.0\TebakHuruf.deps.json
+C:\Users\USER\Desktop\TebakHuruf\bin\Debug\net6.0\TebakHuruf.runtimeconfig.json
+C:\Users\USER\Desktop\TebakHuruf\bin\Debug\net6.0\TebakHuruf.dll
+C:\Users\USER\Desktop\TebakHuruf\bin\Debug\net6.0\TebakHuruf.pdb
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\TebakHuruf.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\TebakHuruf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\TebakHuruf.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\TebakHuruf.AssemblyInfo.cs
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\TebakHuruf.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\TebakHuruf.dll
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\refint\TebakHuruf.dll
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\TebakHuruf.pdb
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\TebakHuruf.genruntimeconfig.cache
+C:\Users\USER\Desktop\TebakHuruf\obj\Debug\net6.0\ref\TebakHuruf.dll

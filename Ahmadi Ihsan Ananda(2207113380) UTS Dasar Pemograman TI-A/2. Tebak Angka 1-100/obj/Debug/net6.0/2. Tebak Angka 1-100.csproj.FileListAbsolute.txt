@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\bin\Debug\net6.0\2. Tebak Angka 1-100.exe
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\bin\Debug\net6.0\2. Tebak Angka 1-100.deps.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\bin\Debug\net6.0\2. Tebak Angka 1-100.runtimeconfig.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\bin\Debug\net6.0\2. Tebak Angka 1-100.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\bin\Debug\net6.0\2. Tebak Angka 1-100.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\2. Tebak Angka 1-100.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\2. Tebak Angka 1-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\2. Tebak Angka 1-100.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\2. Tebak Angka 1-100.AssemblyInfo.cs
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\2. Tebak Angka 1-100.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\2. Tebak Angka 1-100.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\refint\2. Tebak Angka 1-100.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\2. Tebak Angka 1-100.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\2. Tebak Angka 1-100.genruntimeconfig.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\2. Tebak Angka 1-100\obj\Debug\net6.0\ref\2. Tebak Angka 1-100.dll

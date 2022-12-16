@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\bin\Debug\net6.0\1. NameTag.exe
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\bin\Debug\net6.0\1. NameTag.deps.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\bin\Debug\net6.0\1. NameTag.runtimeconfig.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\bin\Debug\net6.0\1. NameTag.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\bin\Debug\net6.0\1. NameTag.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\1. NameTag.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\1. NameTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\1. NameTag.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\1. NameTag.AssemblyInfo.cs
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\1. NameTag.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\1. NameTag.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\refint\1. NameTag.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\1. NameTag.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\1. NameTag.genruntimeconfig.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\1. NameTag\obj\Debug\net6.0\ref\1. NameTag.dll

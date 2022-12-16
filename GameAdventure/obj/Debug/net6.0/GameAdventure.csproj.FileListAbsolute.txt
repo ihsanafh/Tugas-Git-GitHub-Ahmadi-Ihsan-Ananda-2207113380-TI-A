@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GameAdventure\bin\Debug\net6.0\GameAdventure.exe
+C:\Users\USER\Desktop\GameAdventure\bin\Debug\net6.0\GameAdventure.deps.json
+C:\Users\USER\Desktop\GameAdventure\bin\Debug\net6.0\GameAdventure.runtimeconfig.json
+C:\Users\USER\Desktop\GameAdventure\bin\Debug\net6.0\GameAdventure.dll
+C:\Users\USER\Desktop\GameAdventure\bin\Debug\net6.0\GameAdventure.pdb
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\GameAdventure.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\GameAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\GameAdventure.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\GameAdventure.AssemblyInfo.cs
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\GameAdventure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\GameAdventure.dll
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\refint\GameAdventure.dll
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\GameAdventure.pdb
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\GameAdventure.genruntimeconfig.cache
+C:\Users\USER\Desktop\GameAdventure\obj\Debug\net6.0\ref\GameAdventure.dll

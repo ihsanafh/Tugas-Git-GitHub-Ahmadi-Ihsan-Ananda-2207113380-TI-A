@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\bin\Debug\net6.0\4. Game Batu Gunting Kertas.exe
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\bin\Debug\net6.0\4. Game Batu Gunting Kertas.deps.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\bin\Debug\net6.0\4. Game Batu Gunting Kertas.runtimeconfig.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\bin\Debug\net6.0\4. Game Batu Gunting Kertas.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\bin\Debug\net6.0\4. Game Batu Gunting Kertas.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\4. Game Batu Gunting Kertas.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\4. Game Batu Gunting Kertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\4. Game Batu Gunting Kertas.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\4. Game Batu Gunting Kertas.AssemblyInfo.cs
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\4. Game Batu Gunting Kertas.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\4. Game Batu Gunting Kertas.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\refint\4. Game Batu Gunting Kertas.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\4. Game Batu Gunting Kertas.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\4. Game Batu Gunting Kertas.genruntimeconfig.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\4. Game Batu Gunting Kertas\obj\Debug\net6.0\ref\4. Game Batu Gunting Kertas.dll

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\bin\Debug\net6.0\3. Denda Pngembalian Buku.exe
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\bin\Debug\net6.0\3. Denda Pngembalian Buku.deps.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\bin\Debug\net6.0\3. Denda Pngembalian Buku.runtimeconfig.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\bin\Debug\net6.0\3. Denda Pngembalian Buku.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\bin\Debug\net6.0\3. Denda Pngembalian Buku.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\3. Denda Pngembalian Buku.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\3. Denda Pngembalian Buku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\3. Denda Pngembalian Buku.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\3. Denda Pngembalian Buku.AssemblyInfo.cs
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\3. Denda Pngembalian Buku.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\3. Denda Pngembalian Buku.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\refint\3. Denda Pngembalian Buku.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\3. Denda Pngembalian Buku.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\3. Denda Pngembalian Buku.genruntimeconfig.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\3. Denda Pngembalian Buku\obj\Debug\net6.0\ref\3. Denda Pngembalian Buku.dll

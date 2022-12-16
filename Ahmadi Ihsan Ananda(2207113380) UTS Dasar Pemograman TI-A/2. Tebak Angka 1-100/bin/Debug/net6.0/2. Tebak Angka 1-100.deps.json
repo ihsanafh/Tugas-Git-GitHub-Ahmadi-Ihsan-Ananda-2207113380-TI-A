@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2. Tebak Angka 1-100/1.0.0": {
+        "runtime": {
+          "2. Tebak Angka 1-100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2. Tebak Angka 1-100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

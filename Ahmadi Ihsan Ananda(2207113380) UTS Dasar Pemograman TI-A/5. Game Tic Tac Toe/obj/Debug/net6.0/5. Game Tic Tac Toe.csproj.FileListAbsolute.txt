@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\bin\Debug\net6.0\5. Game Tic Tac Toe.exe
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\bin\Debug\net6.0\5. Game Tic Tac Toe.deps.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\bin\Debug\net6.0\5. Game Tic Tac Toe.runtimeconfig.json
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\bin\Debug\net6.0\5. Game Tic Tac Toe.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\bin\Debug\net6.0\5. Game Tic Tac Toe.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\5. Game Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\5. Game Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\5. Game Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\5. Game Tic Tac Toe.AssemblyInfo.cs
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\5. Game Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\5. Game Tic Tac Toe.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\refint\5. Game Tic Tac Toe.dll
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\5. Game Tic Tac Toe.pdb
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\5. Game Tic Tac Toe.genruntimeconfig.cache
+C:\Users\USER\Desktop\Ahmadi Ihsan Ananda(2207113380) UTS Dasar Pemograman TI-A\5. Game Tic Tac Toe\obj\Debug\net6.0\ref\5. Game Tic Tac Toe.dll

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\wkwkw\bin\Debug\net6.0\wkwkw.exe
+C:\Users\USER\Desktop\wkwkw\bin\Debug\net6.0\wkwkw.deps.json
+C:\Users\USER\Desktop\wkwkw\bin\Debug\net6.0\wkwkw.runtimeconfig.json
+C:\Users\USER\Desktop\wkwkw\bin\Debug\net6.0\wkwkw.dll
+C:\Users\USER\Desktop\wkwkw\bin\Debug\net6.0\wkwkw.pdb
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\wkwkw.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\wkwkw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\wkwkw.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\wkwkw.AssemblyInfo.cs
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\wkwkw.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\wkwkw.dll
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\refint\wkwkw.dll
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\wkwkw.pdb
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\wkwkw.genruntimeconfig.cache
+C:\Users\USER\Desktop\wkwkw\obj\Debug\net6.0\ref\wkwkw.dll
